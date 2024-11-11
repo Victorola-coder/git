@@ -11,9 +11,9 @@ git config --global user.email "[valid email address]"
 
 INIT
 
-git init - it generate empty repo and name it "master"
+git init - it generate empty repo and name it "master" by default
 
-git init  -b git
+git init  -b [custom branch name]
 
 STAGING 
 
